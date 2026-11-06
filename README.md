@@ -33,7 +33,7 @@ ollamacode starts Ollama for you when it launches. You can turn this off in sett
 ## Install ollamacode
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ollamacode.git
+git clone https://github.com/beesopaf-ux/ollamacode.py
 cd ollamacode
 pip install -r requirements.txt
 python3 ollamacode.py
