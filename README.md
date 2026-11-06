@@ -66,7 +66,3 @@ Settings are saved to `~/.config/ollamacode/config.json`. The file is created on
 - Tool use needs a model that supports it, such as `qwen2.5-coder` or `llama3.1`. Small models can chat, but can't create files or run commands.
 - Context size applies to the Ollama backend. Larger values need more memory.
 - Web search uses DuckDuckGo by default. A self-hosted SearXNG server is also supported by setting its URL in settings.
-
-## License
-
-Add a license before publishing if you want others to reuse the code.
